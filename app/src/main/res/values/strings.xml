@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Plant disease detector</string>
+    <string name="camera">Camera</string>
+</resources>
